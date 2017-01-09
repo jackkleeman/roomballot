@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <script src="static/jquery.min.js"></script>
+    <script src="static/snap.svg-min.js"></script>
+    <script src="static/chads.js"></script>
+</head>
+
+<body>
+<svg id="svg" width=1000 height=575></svg>
+{% if session.user %}
+			<p>You are logged in as {{ session.user }}</p>
+{% if isSlot(session.user) %}
+            <p>It's your slot right now!</p>
+            <p>Click on the map to select a room, then click select below:</p>
+            <form method="GET" action="{{ url_for('select_group_room', username=session.user) }}">
+            		<input type="text" id="selection" name="selection" value="" readonly />
+                    <button type="submit">Select</button>
+                </form>
+{% endif %}
+{% endif %}
+<p id="band">Please select a room</p>
+<img id="photo" src="/static/crest.png" width=400>
+</body>
+
+</html>

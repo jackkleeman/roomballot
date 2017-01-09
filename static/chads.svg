@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+    <g>
+        <title>Layer 1</title>
+        <rect fill="#B4B3B5" stroke="black" id="room10" x="124.748" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="175" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">10</text>
+        <rect fill="#B4B3B5" stroke="black" id="room11" x="229.748" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="280" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">11</text>
+        <rect fill="#B4B3B5" stroke="black" height="104" id="room12" x="335.081" y="454.473" width="108" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="385" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">12</text>
+        <rect fill="#B4B3B5" stroke="black" id="room13" x="443.246" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="500" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">13</text>
+        <rect fill="#B4B3B5" stroke="black" id="room14" x="548.413" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="600" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">14</text>
+        <rect fill="#B4B3B5" stroke="black" id="room15" x="653.413" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="710" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">15</text>
+        <rect fill="#B4B3B5" stroke="black" id="room16" x="758.246" y="454.473" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="808" y="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">16</text>
+        <rect fill="#B4B3B5" stroke="black" id="room20" x="124.748" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="175" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">20</text>
+        <rect fill="#B4B3B5" stroke="black" id="room21" x="229.751" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="280" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">21</text>
+        <rect fill="#B4B3B5" stroke="black" id="room22" x="335.081" y="350.421" width="108" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="385" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">22</text>
+        <rect fill="#B4B3B5" stroke="black" id="room23" x="443.246" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="500" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">23</text>
+        <rect fill="#B4B3B5" stroke="black" id="room24" x="548.413" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="600" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">24</text>
+        <rect fill="#B4B3B5" stroke="black" id="room25" x="653.413" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="710" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">25</text>
+        <rect fill="#B4B3B5" stroke="black" id="room26" x="758.246" y="350.421" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="808" y="430" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">26</text>
+        <rect fill="#B4B3B5" stroke="black" id="room30" x="124.751" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="175" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">30</text>
+        <rect fill="#B4B3B5" stroke="black" id="room31" x="229.751" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="280" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">31</text>
+        <rect fill="#B4B3B5" stroke="black" height="104" id="room32" x="335.084" y="246.373" width="108" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="385" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">32</text>
+        <rect fill="#B4B3B5" stroke="black" id="room33" x="443.249" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="500" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">33</text>
+        <rect fill="#B4B3B5" stroke="black" id="room34" x="548.416" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="600" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">34</text>
+        <rect fill="#B4B3B5" stroke="black" id="room35" x="653.416" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="710" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">35</text>
+        <rect fill="#B4B3B5" stroke="black" id="room36" x="758.249" y="246.373" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="808" y="326" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">36</text>
+        <rect fill="#B4B3B5" stroke="black" id="room40" x="125" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="text40" x="175" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">40</text>
+        <rect stroke="black" fill="#B4B3B5" id="room41" x="230" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="280" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">41</text>
+        <rect stroke="black" fill="#B4B3B5" id="room42" x="335.333" y="142.021" width="108" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="385" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">42</text>
+        <rect stroke="black" fill="#B4B3B5" id="room43" x="443.498" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="500" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">43</text>
+        <rect fill="#B4B3B5" stroke="black" id="room44" x="548.665" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="600" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">44</text>
+        <rect fill="#B4B3B5" stroke="black" id="room45" x="653.665" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="710" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">45</text>
+        <rect fill="#B4B3B5" stroke="black" id="room46" x="758.498" y="142.021" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="808" y="222" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">46</text>
+        <rect fill="#B4B3B5" stroke="black" id="room53" x="443.498" y="37.6182" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="500" y="120" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">53</text>
+        <rect fill="#B4B3B5" stroke="black" id="room54" x="548.665" y="37.6182" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="600" y="120" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">54</text>
+        <rect fill="#B4B3B5" stroke="black" id="room55" x="653.665" y="37.6182" width="105" height="104" />
+        <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="80" id="svg_2" x="710" y="120" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="black" fill="#000000" style="pointer-events: none;">55</text>
+    </g>
+</svg>

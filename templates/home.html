@@ -1,0 +1,86 @@
+<html>
+    <body>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        <p>
+            Message:
+            <ul>
+                {% for message in get_flashed_messages() %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        </p>
+    {% endif %}
+{% endwith %}
+
+{% if session.user %}
+    <p>You are logged in as {{ session.user }}</p>
+    <form method="GET" action="{{ url_for('logout') }}">
+        {% if session.auth == "raven" %}
+            <label for="also_raven">
+                <input type="checkbox" name="also_raven" id="also_raven" value="yes">
+                Also log out of Raven
+            </label>
+        {% endif %}
+        <button type="submit">Log out</button>
+    </form>
+    {% if session.ballot %}
+    <p>You are registered for the ballot! Your year is: {{ session.year }}</p>
+        {% if session.year == "1" %}
+            {% if session.crs2 != None %}
+                <p>You've sorted your group! It is: {{ session.user }}, {{ session.crs2 }}, {{ session.crs3 }}, {{ session.crs4 }}, {{ session.crs5 }}</p>
+                <a href="/map">Please click here to browse rooms</a>
+            {% else %}
+                <p>You need to sort your group. Please enter the CRSid of three or four other members of the group, ie all excluding yourself. Please double check!</p>
+                <form method="GET" action="{{ url_for('add_group', username=session.user) }}">
+                    <label for="group">
+                    Second group member CRSid:<br>
+                    <input type="text" name="crs2" required>
+                    <br>
+                    Third group member CRSid:<br>
+                    <input type="text" name="crs3" required>
+                    <br>
+                    Fourth group member CRSid:<br>
+                    <input type="text" name="crs4" required>
+                    <br>
+                    Optional Fifth group member CRSid:<br>
+                    <input type="text" name="crs5">
+                    <br>
+                    </label>
+                    <button type="submit">Add to group</button>#
+                </form>
+            {% endif %}
+        {% endif %}
+        {% if session.slot != None %}
+        <p>You have a slot! Your slot is the half an hour from: {{ session.slot }}</p>
+            {% if isSlot(session.user) %}
+            <p>In fact, it's your slot right now! Click on browse rooms above to make a selection :)</p>
+            {% endif %}
+            {% if session.selection %}
+            <p>You've already picked your room! It is: {{ session.selection }}. If you want to change, contact your accomm officer ASAP!!</p>
+            {% endif %}
+        {% else %}
+        <p>You haven't been assigned a slot yet.</p>
+        {% endif %}
+    {% else %}
+        <form method="GET" action="{{ url_for('add_user', username=session.user) }}">
+            <label for="year">
+                <select name="year">
+                   <option value="1">1</option>
+                   <option value="2">2</option>
+                </select>
+                Year for Ballot - This is the year you are currently in - ie current first years select '1'
+            </label>
+            <button type="submit">Add to ballot</button>#
+        </form>
+    {% endif %}
+{% else %}
+    <p>You are not logged in.</p>
+    <p><a href="{{ url_for('login_raven') }}">Log In via Raven</a></p>
+{% endif %}
+
+<a href="/admin/">Click me to get to Admin!</a>
+
+    </body>
+</html>

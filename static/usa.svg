@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg enable_background="new 0 0 1000 604" height="604px" pretty_print="False" style="stroke-linejoin: round; stroke:#000; fill: none;" version="1.1" viewBox="0 0 1000 604" width="1000px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">
+        <![CDATA[path {
+            fill-rule: evenodd;
+        }
+
+        ]]>
+        </style>
+    </defs>
+    <metadata>
+        <views>
+            <view h="604.816027229" padding="0" w="1000">
+                <proj id="laea-usa" lat0="45" lon0="-100" />
+                <bbox h="321.76" w="532.88" x="746.23" y="918.78" />
+            </view>
+        </views>
+    </metadata>
+    <g class="" id="layer0">
+        <rect stroke="black" fill="white" id="svg_3" x="230" y="142.021" width="105" height="104" />
+        <rect stroke="black" fill="white" id="svg_4" x="443.498" y="142.021" width="105" height="104" />
+        <rect stroke="black" fill="white" id="svg_1" x="335.333" y="142.021" width="108" height="104" />
+        <rect fill="white" stroke="black" id="svg_6" x="548.665" y="142.021" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_7" x="758.498" y="142.021" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_8" x="125" y="142.021" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_9" x="653.665" y="142.021" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_10" x="229.751" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_11" x="443.249" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" height="104" id="svg_12" x="335.084" y="246.373" width="108" />
+        <rect fill="white" stroke="black" id="svg_13" x="548.416" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_14" x="758.249" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_15" x="124.751" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_16" x="653.416" y="246.373" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_17" x="229.748" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_18" x="443.246" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_19" x="335.081" y="350.421" width="108" height="104" />
+        <rect fill="white" stroke="black" id="svg_20" x="548.413" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_21" x="758.246" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_22" x="124.748" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_23" x="653.413" y="350.421" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_24" x="229.748" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_25" x="443.246" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" height="104" id="svg_26" x="335.081" y="454.473" width="108" />
+        <rect fill="white" stroke="black" id="svg_27" x="548.413" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_28" x="758.246" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_29" x="124.748" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_30" x="653.413" y="454.473" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_31" x="443.498" y="37.6182" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_32" x="653.665" y="37.6182" width="105" height="104" />
+        <rect fill="white" stroke="black" id="svg_33" x="548.665" y="37.6182" width="105" height="104" />
+    </g>
+</svg>
